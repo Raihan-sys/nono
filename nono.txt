@@ -1,0 +1,12 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2023-05-23"]
+[White "RaihanEp"]
+[Black "Intermediate"]
+[Result "1-0"]
+[TimeControl "-"]
+[Termination "RaihanEp won by checkmate"]
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e5 Bg7 8. exd6
+cxd6 9. Bb5+ Kf8 10. O-O Bg4 11. Qd3 Kg8 12. Nh4 e5 13. h3 Bh5 14. dxe5 Qxh4 15.
+exd6 Rh7 16. d7 Bf6 17. Rfe1 Bd4 18. Re8+ Kg7 19. Qxd4+ Qxd4 20. d8=Q Nc6 21.
+Rg8# 1-0
